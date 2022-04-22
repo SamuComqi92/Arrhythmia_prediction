@@ -11,4 +11,4 @@ Summary
 6. Model finalization
 7. Test on unseen data
 
-For a complete view --> https://nbviewer.org/github/SamuComqi92/Arrhythmia_prediction/blob/main/Arrhythmia_prediction2.ipynb
+For a complete view --> https://nbviewer.org/github/SamuComqi92/Arrhythmia_prediction/blob/main/Arrhythmia_prediction.ipynb
